@@ -1,0 +1,31 @@
+{
+  "os":  "Windows-10-10.0.19045-SP0",
+  "python":  "CPython 3.12.4",
+  "startedAt":  "2025-03-06T03:15:11.774633Z",
+  "program":  "c:\\Users\\NANDHINI\\Downloads\\My_DeepTamil\\FineTUning\\testtest\\trying.ipynb",
+  "codePath":  "FineTUning\\testtest\\trying.ipynb",
+  "git":  {
+    "remote":  "https://github.com/Nandhinieswaran/deeptamil-trial.git",
+    "commit":  "848f972164e5a01dfedc6df5326ede8e6c327c7d"
+  },
+  "email":  "nandhininandhini2510@gmail.com",
+  "root":  "c:\\Users\\NANDHINI\\Downloads\\My_DeepTamil\\FineTUning\\testtest",
+  "host":  "DESKTOP-81A18MK",
+  "executable":  "c:\\Users\\NANDHINI\\Desktop\\Claude_model\\claude\\Scripts\\python.exe",
+  "codePathLocal":  "trying.ipynb",
+  "cpu_count":  8,
+  "cpu_count_logical":  16,
+  "disk":  {
+    "/":  {
+      "total":  "499435945984",
+      "used":  "474585968640"
+    }
+  },
+  "memory":  {
+    "total":  "25716494336"
+  },
+  "cpu":  {
+    "count":  8,
+    "countLogical":  16
+  }
+}

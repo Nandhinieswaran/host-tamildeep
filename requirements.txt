@@ -1,0 +1,12 @@
+#packages 
+langchain
+langchain-huggingface
+python-dotenv
+langchain-community
+langchain-pinecone
+pypdf
+langchain-text-splitters
+langchain
+groq
+transformers
+langchain_groq

@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @font-face {
+    font-family: 'Catamaran';
+    src: url('https://fonts.googleapis.com/css2?family=Catamaran:wght@400;600;700&display=swap');
+  }
+  
+  html {
+    font-family: 'Catamaran', system-ui, sans-serif;
+  }
+
+  ::selection {
+    background-color: #b45309;
+    color: white;
+  }
+}
+
+@layer utilities {
+  .text-shadow {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+  }
+}
